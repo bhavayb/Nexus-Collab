@@ -1,4 +1,4 @@
-# Nexus Collab !
+# Nexus Collab
 
 Real-time collaborative development platform (MERN) with an AI assistant for in-project help and code generation. This repository contains a Node.js/Express backend and a React + Vite frontend.
 
